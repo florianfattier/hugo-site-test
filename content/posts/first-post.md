@@ -1,5 +1,5 @@
 ---
-title: "Hello Deploy Now built with Hugo"
+title: "Ceci est votre premier article"
 date: 2021-04-01T12:00:00+01:00
 draft: false
 ---
